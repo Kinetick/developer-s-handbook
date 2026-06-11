@@ -26,7 +26,7 @@
 
 ### Навигация по разделам
 
-- [Структуры данных](./data_structures/index.md)
+- [Структуры данных](./index.md#структуры-данных)
   - [Массив](./data_structures/array.md)
   - [Множество](./data_structures/set.md)
   - [Куча](./data_structures/heap.md)
